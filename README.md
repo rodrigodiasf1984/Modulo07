@@ -8,7 +8,7 @@
 
 ## :rocket: Sobre o desafio
 
-Projeto de e-commerce criado para web utilizando React JS. **React JS**.
+Projeto de e-commerce criado para web utilizando **React JS**.
 
 ## :clipboard: Iniciando a aplicação
 

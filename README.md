@@ -16,7 +16,7 @@ Projeto de e-commerce criado para web utilizando **React JS**.
 2. Entre dentro da pasta do projeto com `cd Modulo07`.
 3. Instale todas as dependencias com o comando `yarn`.
 4. Digite `json-server server.json -p 3333` para inicar a fake api. 
-6. yarn start
+6. Execute `yarn start` no terminal para iniciar a aplicação web.
 
 ## :hammer: Ferramentas usadas
 

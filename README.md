@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 7: Loja Virtual.  
+  Módulo 7: Loja Virtual.  
 </h3>
 
 ## :rocket: Sobre o desafio

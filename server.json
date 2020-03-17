@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Boné Bjj reto",
+      "price": 39.9,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T905A14PA1891PT26X55Y24D171715175FS9956PA1890PT26X39Y0D171715023FS5238/views/1,width=650,height=650,appearanceId=14.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Moleton Bjj preto",
+      "price": 69.9,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T644A54PA1322PT17X55Y10D171715023FS5322PA1321PT17X157Y3D171715175FS8627/views/2,width=650,height=650,appearanceId=54.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mochila pequena",
+      "price": 49.9,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T1155A2PA2485PT17X48Y66D170225808FS9721PA2483PT17X48Y66D170225813FS9820/views/1,width=650,height=650,appearanceId=2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Camiseta masculina Bjj preta",
+      "price": 29.9,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T6A2PA4289PT17X211Y62D170225813FS5486PA4291PT17X76Y16D170225808S100/views/1,width=650,height=650,appearanceId=2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Camiseta feminina",
+      "price": 29.9,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T631A2PA4095PT17X67Y20D170225813FS9806PA4097PT17X122Y1D170225808FS2930/views/1,width=650,height=650,appearanceId=2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Moleton Bjj branco ",
+      "price": 69.9,
+      "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T20A1PA4347PT17X97Y65D170225813FS9860PA3985PT17X4Y5D170225808FS5116/views/1,width=650,height=650,appearanceId=1.jpg"
+    }
+  ]
+}

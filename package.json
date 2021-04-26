@@ -9,7 +9,7 @@
     "axios": "^0.21.1",
     "history": "^5.0.0",
     "immer": "^8.0.1",
-    "polished": "^3.4.4",
+    "polished": "^4.1.2",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.13.0",
